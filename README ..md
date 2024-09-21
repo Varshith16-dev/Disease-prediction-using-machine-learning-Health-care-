@@ -1,1 +1,3 @@
-# M1_project
+# Disease prediction using machine learning (Health care) 
+
+
